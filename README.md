@@ -2,12 +2,27 @@
 
 ## Table of Contents
 
+* [Description](#description)
 * [Instructions](#instructions)
+* [Styles](#styles)
+* [Acknowledgement](#acknowledgement)
+
+## Description
+
+This project is build on using HTML, CSS and Vanilla JavaScript.
+It implements DOM manipulation to toggle active classes on HTML elements.
 
 ## Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+To start the application, use simple python HTTP server:
+```bash
+python3 -m http.server 8000
+```
 
-To get started, open `js/app.js` and start building out the app's functionality
+## Styles
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+This project follows the basic WebStorm coding styles.
+
+## Acknowledgement
+
+* [MDN](https://developer.mozilla.org/en-US/)
